@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
-"productName": "tamesii",
-"dataUrl": "koko.data.unityweb",
-"wasmCodeUrl": "koko.wasm.code.unityweb",
-"wasmFrameworkUrl": "koko.wasm.framework.unityweb",
+"productName": "New Unity Project (1)",
+"dataUrl": "noel.data.unityweb",
+"wasmCodeUrl": "noel.wasm.code.unityweb",
+"wasmFrameworkUrl": "noel.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
